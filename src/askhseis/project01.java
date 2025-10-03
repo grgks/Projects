@@ -11,7 +11,7 @@ public class project01 {
     public static void main(String[] args) {
 
 
-        //testing for creating branch n03
+        //testing for creating branch n03- Version B
     try (Scanner in = new Scanner(new File("C:/LOTTO/lotto.txt"));
          PrintStream ps = new PrintStream("C:/LOTTO/lotto.out.txt", StandardCharsets.UTF_8)) {
 
