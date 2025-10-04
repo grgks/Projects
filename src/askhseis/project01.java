@@ -11,7 +11,7 @@ public class project01 {
     public static void main(String[] args) {
 
 
-        //testing for creating branch n03- version A
+        //testing for creating branch n03- version A test3
     try (Scanner in = new Scanner(new File("C:/LOTTO/lotto.txt"));
          PrintStream ps = new PrintStream("C:/LOTTO/lotto.out.txt", StandardCharsets.UTF_8)) {
 
@@ -61,7 +61,7 @@ public class project01 {
         e.printStackTrace();
     }
 }
-//testing merge branch new, solve conflicts and deleting branch
+//testing merge branch new, solve conflicts and deleting branch test n03
     public static boolean isEven(int[] arr, int threshold) {
         long evenCount = 0;
 

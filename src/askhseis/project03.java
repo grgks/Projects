@@ -6,6 +6,7 @@ import java.io.IOException;
 
 public class project03{
 
+    // testing n03 create test branch push merge solving conflicts
     public static void main(String[] args) {
         String filename = "C:/project03/project03.txt";
         int[][] frequencyTable = new int[128][2];
@@ -67,7 +68,7 @@ public class project03{
         }
     }
 
-
+    // testing n03 create test branch push merge solving conflicts
     public static void sortByCharacter(int[][] frequencyTable) {
         for (int i = 0; i < frequencyTable.length - 1; i++) {
             for (int j = i + 1; j < frequencyTable.length; j++) {
