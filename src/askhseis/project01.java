@@ -11,7 +11,7 @@ public class project01 {
     public static void main(String[] args) {
 
 
-        //testing for creating branch n03- version A
+        //testing for creating branch n03- version A creating conflict
     try (Scanner in = new Scanner(new File("C:/LOTTO/lotto.txt"));
          PrintStream ps = new PrintStream("C:/LOTTO/lotto.out.txt", StandardCharsets.UTF_8)) {
 

@@ -5,7 +5,7 @@ import java.io.FileReader;
 import java.io.IOException;
 
 public class project03{
-
+// create merge conflict and solve
     public static void main(String[] args) {
         String filename = "C:/project03/project03.txt";
         int[][] frequencyTable = new int[128][2];
